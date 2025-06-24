@@ -45,21 +45,3 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180"/>
-  <img src="https://streak-stats.demolab.com/?user=your-github-username&theme=radical&hide_border=true" height="180"/>
-</p>
-
----
-
-### 🌊 Wave Goodbye with Style
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/waves/wave3.svg" width="100%" />
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-github-username" />
-</p>
