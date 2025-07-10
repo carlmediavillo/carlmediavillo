@@ -5,7 +5,8 @@
 <h1 align="center">Hey there! 👋 I'm Carl</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%7C+Web+%26+Embedded+Enthusiast;Always+Learning+Something+New+Every+Day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%2F+ERP+Application+Developer;Always+Learning+Something+New+Every+Day!" alt="Typing SVG" />
+
 </div>
 
 
@@ -21,9 +22,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working with **Python**, **Django**, and **JavaScript**
-- 💡 Learning **Embedded Systems**, **C**, and **Linux Kernel Modules**
-- ⚡ Fun Fact: I love learning about how things work — from chips to clouds ☁️
+- 💼 **ERP & Legacy Systems:** RPG III, IBM iSeries (AS/400), IBM DB2  
+- 💻 **Programming Languages:** Python, JavaScript, SQL, CL, C, C++, Java  
+- 🌐 **Web Technologies:** Django, HTML, CSS, REST APIs, PostgreSQL, ORM  
+- 🛠️ **Tools & Platforms:** Git, VS Code, Docker (basic), SAP (familiar), Ubuntu Linux, WSL on Windows  
+
 
 ---
 
@@ -39,7 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgres"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu"/>
+
 </p>
+
 
 ---
 
