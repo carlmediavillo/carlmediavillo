@@ -23,9 +23,9 @@
 ### 👨‍💻 About Me
 
 - 💼 **ERP & Legacy Systems:** RPG III, IBM iSeries (AS/400), IBM DB2  
-- 💻 **Programming Languages:** Python, JavaScript, SQL, CL, C, C++, Java  
-- 🌐 **Web Technologies:** Django, HTML, CSS, REST APIs, PostgreSQL, ORM  
-- 🛠️ **Tools & Platforms:** Git, VS Code, Docker (basic), SAP (familiar), Ubuntu Linux, WSL on Windows  
+- 💻 **Programming Languages:** Python, JavaScript, SQL, CL, C, C++, Java, Lua
+- 🌐 **Web Technologies:** Django, HTML, CSS, REST APIs, PostgreSQL
+- 🛠️ **Tools & Platforms:** Git, VS Code, Docker (basic), SAP (familiar), Ubuntu Linux, Love2D, Unity, WSL on Windows  
 
 
 ---
