@@ -5,7 +5,7 @@
 <h1 align="center">Hey there! 👋 I'm Carl</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+%2F+ERP+Application+Developer;If+it+works%2C+I+meant+it.+If+it+doesn%E2%80%99t%2C+that%E2%80%99s+a+feature." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Developer+;If+it+works%2C+I+meant+it.+If+it+doesn%E2%80%99t%2C+that%E2%80%99s+a+feature." alt="Typing SVG" />
 </div>
 
 
