@@ -14,9 +14,7 @@
 
 ### 📬 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carl-lewis-mediavillo/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/></a>
-</p>
+<p align="center"> <a href="https://www.linkedin.com/in/carl-lewis-mediavillo/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28"/> </a> <a href="https://www.datacamp.com/portfolio/carlmediavillo4"> <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=white&labelColor=&style=for-the-badge" height="28"/> </a> </p>
 
 ---
 
